@@ -1,2 +1,3 @@
 this is my frst text file 
 this is the new text i added
+new pass updated
